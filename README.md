@@ -2,9 +2,9 @@
 I am interested in learning more about database. Since database management is a huge task, we need to be concern about various  methods  of  database mangement.I am going to upload my learning materials here.
 
 # COURSE :MySQL Database Administration: Beginner SQL Database Design Course
-# COURSE INSTRUCTOR :Maven Analytics
+# COURSE INSTRUCTOR : Maven Analytics
 
-# COURSE OUTLINE:
+# COURSE  OUTLINE:
 
 
 
@@ -22,7 +22,7 @@ After we get up to speed creating and altering tables, we will learn how to popu
 
 ## Database Design
 
-Now that we have covered the basic mechanics, we will learn how tables relate to one another optimally, and discuss best practices for database design. We will explore the EER Diagram Editor, and you will have some opportunities to create your own database models.
+Now that we have covere the basic mechanics, we will learn how tables relate to one another optimally, and discuss best practices for database design. We will explore the EER Diagram Editor, and you will have some opportunities to create your own database models.
 
 
 # ***MID-COURSE PROJECT: Normalize this database for your client! 

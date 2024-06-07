@@ -4,7 +4,7 @@ I am deeply  interested in learning more about database. Since database manageme
 # COURSE :MySQL Database Administration: Beginner SQL Database Design Course
 # COURSE INSTRUCTOR : Maven Analytics
 
-## COURSE  OUTLINE:
+## COURSE OUTLINE:
 
 
 
